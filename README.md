@@ -2,4 +2,3 @@
 
 
 
-Read full case study here 
