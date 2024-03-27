@@ -76,8 +76,6 @@ resource "aws_security_group" "vcs_sg" {
 #Create a key pair 
 resource "aws_key_pair" "vcs_key" {
 key_name = "vcs_key"
-public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDfKL8oiMrAvijAqOMa9ajGOb7k7z9a691Gmf8xtaPKFOg0Wqcu35ascM6vjRlaPtpkBA/MDy0bjfPzbZV19LOE92LbUQfwW9aRMBpYACMSPLyR0e2plT4o81QUIOpUIebgjxvpq+DsDOQdCb+MmGz9L0RN8e8vnUV4Pr2jJzOabdQ2aVtIkks2iDJ4Pexq73zpU13Xx8YUWPQmPPU/NhYezSmvZZuL90kSUvsHj1ivu5pwqbYDZqSNAagfIwD9XSOLxhgUUGtQPTcIcXiOdun0O5+WQ+uFw13zU8kBOGU04qliaFu+UZ/IHwNf+qy7L3E+529FsGvBi2kCY+aaP9nT Nabila@PSL-NABILA"
-
 }
 
 
